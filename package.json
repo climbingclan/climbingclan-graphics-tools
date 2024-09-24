@@ -1,0 +1,10 @@
+{
+  "name": "climbingclan-graphics-tools",
+  "version": "1.0.0",
+  "description": "Tools and templates for Climbing Clan graphics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Dobson",
+  "license": "CC0-1.0"
+}
